@@ -70,7 +70,7 @@ This shows how machine learning can support proactive maintenance scheduling and
 - NumPy
 - Pandas
 - Scikit-learn
-- TensorFlow / Keras
+- TensorFlow/Keras
 - Matplotlib
 
 # Applications
@@ -83,10 +83,10 @@ The predictive maintenance framework developed in this project can be applied to
 
 Repository Structure
 Predictive-Maintenance-ML/
-│
-├── Predictive_maintenance_for_equipment_using_machine_learning.ipynb
-├── predictive_maintenance_lstm_decision_plot.png
-├── README.md
+
+- ├── Predictive_maintenance_for_equipment_using_machine_learning.ipynb
+- ├── predictive_maintenance_lstm_decision_plot.png
+- ├── README.md
 
 # Future Improvements
 Potential extensions of this work include:
